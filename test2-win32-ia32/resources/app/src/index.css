@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+.menu-list-small {
+  font-size: 12px;
+  text-overflow: ellipsis;
+  width: 168px;
+  white-space: nowrap;
+  overflow: hidden;
+  line-height: 16px;
+}
